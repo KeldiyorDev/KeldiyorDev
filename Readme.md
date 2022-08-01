@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Assalamu+Aleykum,+i'm+===+Keldiyor;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+2+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+;%29)](https://git.io/typing-svg) 
  
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=KeldiyorDev&theme=react-dark&hide_border=true&area=true" />
-</div> 
+[![KeldiyorDev github activity graph](https://activity-graph.herokuapp.com/graph?username=KeldiyorDev&theme=react-dark)]
  
 <!-- ./STAT -->
 <div align="center">  
